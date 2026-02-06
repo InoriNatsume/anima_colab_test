@@ -8,3 +8,6 @@ This project is a work in progress and may be updated continuously.
 ### References
 - [Anima on Hugging Face](https://huggingface.co/circlestone-labs/Anima)  
 - [diffusion-pipe GitHub](https://github.com/tdrussell/diffusion-pipe)
+
+### Generated Sample
+![白河ユイナ/Yuina Shirakawa/시라카와 유이나 from Heaven Burnd Red](sample/ComfyUI_00114.png)
